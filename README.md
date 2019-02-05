@@ -32,6 +32,38 @@ Open irb and enter each command line by line to see what it is doing
 
  ``irb ``
  
+ # GUIDE
  
+ [Elements](http://watir.com/guides/elements/)
+ * Text Fields
+ * Select Lists - Combos
+ * Radios
+ * Checkboxes
+ * Buttons
+ * Links
+ * Divs & Spans
  
+  [Locating Elements](http://watir.com/guides/locating/)
+  * ID
+  * Name
+  * Tag Name
+  * Class Name
+  * Text
+  * Visible Text
+  * Data Attributes
+  * Aria Attributes
+  * Valid or Custom Attributes
+  * Label
+  * Index
+  
+[Frames](http://watir.com/guides/frames/)
+
+[Waiting](http://watir.com/guides/waiting/)
+* When Present and When Enabled
+* Watir Wait and Waitable Modules
+* Wait Until Present and Wait While Present
+
+[HeadLess](http://watir.com/guides/headless/)
+
+
 http://watir.com/
