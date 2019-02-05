@@ -4,12 +4,11 @@ Watir Example - Sol Aluno
 
 # Steps
 
-Download Ruby
-
 Windows
-``Download and install the latest version from`` [rubyinstaller](https://rubyinstaller.org/downloads/)
+
+* ``Download and install the latest version from`` [rubyinstaller](https://rubyinstaller.org/downloads/)
    
-Open Cmd Ruby.
+* Open Cmd Ruby.
 
 # Install these gems from the command line
 
