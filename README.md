@@ -34,4 +34,4 @@ Open irb and enter each command line by line to see what it is doing
  
  
  
-http://watir.com/guides/locating/
+http://watir.com/
